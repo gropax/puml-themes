@@ -30,7 +30,7 @@ skinparam useBetaStyle false
 !$WHITE = "#ECEFF4"
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
-!$PRIMARY = "#5280dc"
+!$PRIMARY = "#596d94"
 !$SECONDARY = "#5A667D"
 !$SUCCESS = "#77B300"
 !$INFO = "#ECEFF4"
@@ -46,7 +46,7 @@ skinparam useBetaStyle false
 ''
 !$FGCOLOR = $WHITE
 !$PRIMARY_DARK = "#3a61ad"
-!$PRIMARY_LIGHT = "#3a61ad"
+!$PRIMARY_LIGHT = "#3e4f71"
 !$PRIMARY_TEXT = $WHITE
 !$SECONDARY_DARK = "#777777"
 !$SECONDARY_LIGHT = "#444444"
