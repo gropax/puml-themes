@@ -30,7 +30,7 @@ skinparam useBetaStyle false
 !$WHITE = "#ECEFF4"
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
-!$PRIMARY = "#5a79b7"
+!$PRIMARY = "#5280dc"
 !$SECONDARY = "#5A667D"
 !$SUCCESS = "#77B300"
 !$INFO = "#ECEFF4"
@@ -45,7 +45,7 @@ skinparam useBetaStyle false
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$FGCOLOR = $WHITE
-!$PRIMARY_DARK = "#415a8c"
+!$PRIMARY_DARK = "#5280dc"
 !$PRIMARY_LIGHT = "#227FAB"
 !$PRIMARY_TEXT = $WHITE
 !$SECONDARY_DARK = "#777777"
