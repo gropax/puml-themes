@@ -31,7 +31,7 @@ skinparam useBetaStyle false
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
 !$PRIMARY = "#2A9FD6"
-!$SECONDARY = "#808080"
+!$SECONDARY = "#707070"
 !$SUCCESS = "#77B300"
 !$INFO = "#9933CC"
 !$WARNING = "#FF8800"
