@@ -27,17 +27,17 @@ skinparam useBetaStyle false
 !$GREEN = "#77B300"
 !$TEAL = "#20c997"
 !$CYAN = "#9933CC"
-!$WHITE = "#FFF"
+!$WHITE = "#ECEFF4"
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
 !$PRIMARY = "#2A9FD6"
-!$SECONDARY = "#707070"
+!$SECONDARY = "#434C5E"
 !$SUCCESS = "#77B300"
 !$INFO = "#9933CC"
 !$WARNING = "#FF8800"
 !$DANGER = "#CC0000"
-!$LIGHT = "#222"
-!$DARK = "#ADAFAE"
+!$LIGHT = $WHITE
+!$DARK = $WHITE
 
 '' *_DARK = tint (lighter) of the main color of 80%
 ''          where TINT is calculated by clr + (255-clr) * tint_factor
@@ -186,7 +186,7 @@ skinparam sequence {
 	''
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	''
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
