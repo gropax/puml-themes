@@ -5,7 +5,7 @@
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
 
-!$THEME = "cyborg"
+!$THEME = "obsidian-nord"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
@@ -31,7 +31,7 @@ skinparam useBetaStyle false
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
 !$PRIMARY = "#2A9FD6"
-!$SECONDARY = "#555"
+!$SECONDARY = "#808080"
 !$SUCCESS = "#77B300"
 !$INFO = "#9933CC"
 !$WARNING = "#FF8800"
